@@ -1,0 +1,24 @@
+{
+    "Eventos": {
+        "cometas": {
+            "nombre": "Festival del Viento y las Cometas",
+            "descripcion": "Del 17 al 19 de agosto de 2024, la tranquila Villa de Leyva se convertirá en un vibrante mar de colores con el Festival del Viento y las Cometas. Este evento, que ha reunido a entusiastas y espectadores durante más de cuatro décadas, va más allá de un simple concurso: es una experiencia sensorial única. Los cielos se llenarán de cometas de todas las formas y tamaños, desde tradicionales cometas delta hasta impresionantes estructuras inflables, ofreciendo un espectáculo visual extraordinario. Además, el festival incluirá actos culturales con música y danza folclórica, consolidándolo como uno de los eventos más importantes a nivel nacional e internacional.",
+            "imagen": "img/Eventos/cometas.avif"
+        },
+        "familia": {
+            "nombre": "Festival Villa del Cine",
+            "descripcion": "Del 25 al 28 de septiembre de 2024, Villa de Leyva será el escenario del Festival Villa del Cine, un evento destacado para los entusiastas del cine independiente y las nuevas narrativas. En su décima edición, el festival ofrecerá una programación de alta calidad, proyectando una cuidada selección de cortometrajes y largometrajes de Colombia y el mundo en pintorescos rincones del pueblo. Además de las proyecciones, los asistentes disfrutarán de talleres, conferencias y eventos especiales, fomentando el intercambio y la formación en el universo del cine independiente.",
+            "imagen": "img/Eventos/cine.webp"
+        },
+        "arbol": {
+            "nombre": "Festival del Árbol",
+            "descripcion": "Del 13 al 15 de octubre de 2024, Villa de Leyva, Colombia, acogerá el Festival del Árbol Villa de Leyva, un evento que celebra la majestuosidad de los árboles y fomenta la conservación ambiental. Más que una exposición de flora, el festival se convierte en una plataforma educativa con talleres, conferencias y actividades interactivas para sensibilizar sobre la importancia de la naturaleza. Los visitantes podrán explorar una rica biodiversidad, adquirir ejemplares de árboles y disfrutar de actividades familiares, espectáculos musicales y gastronómicos, mientras se promueve un futuro más verde.",
+            "imagen": "img/Eventos/arbol3.jpg"
+        },
+        "luces": {
+            "nombre": "Festival de Luces",
+            "descripcion": "El Festival de Luces de Villa de Leyva 2024, que se celebrará del 6 al 8 de diciembre, transformará el cielo nocturno en un espectacular despliegue de luces y colores con la participación de artistas pirotécnicos nacionales e internacionales. Además de los impresionantes fuegos artificiales sincronizados con música, el evento ofrece una experiencia mágica en el pueblo colonial, con calles adornadas con faroles, música tradicional, y actividades para toda la familia. El 7 de diciembre, durante la Noche de Velitas, los asistentes podrán disfrutar de villancicos, una misa de aguinaldo, juegos y dulces para los niños, y la deliciosa gastronomía navideña colombiana. El festival promete ser una celebración inolvidable llena de luz, música y alegría.",
+            "imagen": "img/Eventos/luces.webp"
+        }
+    }
+}
